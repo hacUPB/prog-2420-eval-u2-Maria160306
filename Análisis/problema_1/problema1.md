@@ -15,4 +15,7 @@ Crear un sistema que gestione la reserva de vuelos, solicitando la información 
 Información completa de la reserva: Nombre del usuario, origen, destino, fecha del vuelo, precio del boleto y asiento asignado.
 
 ## Tabla de análisis:
-![Tabla de análisis](![alt text](image.png))
+![Texto alternativo](![alt text](image.png))
+
+
+
