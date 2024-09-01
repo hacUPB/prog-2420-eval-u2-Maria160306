@@ -2,6 +2,9 @@
 # Documentación del proyecto
 ## Unidad 2
 
-Estudiante:  
-ID:  
+Estudiante: Maria Paz Torres
+ID: 000519737
 ---
+## - En el archivo Análisis podrás encontrar el análisis del problema 1 y el problema 2.
+## - En el archivo Pseudocódigo podrás encontrar el pseudocódigo del problema 1 y el problema 2.
+## - En el archibo Autoevaluación podrás encontrar mi autoevaluación (Maria Paz)
