@@ -8,3 +8,4 @@ ID: 000519737
 ### - En el archivo Análisis podrás encontrar el análisis del problema 1 y el problema 2.
 ### - En el archivo Pseudocódigo podrás encontrar el pseudocódigo del problema 1 y el problema 2.
 ### - En el archivo Autoevaluación podrás encontrar mi autoevaluación (Maria Paz)
+### - En el archivo Python, podrás encontrar la resolución de cada problema por medio del código.
